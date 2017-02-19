@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-redux-saga",
+  "version": "1.0.0",
+  "description": "A quick starter for webpack, npm, react, redux, redux-saga, react-router, and sass.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavarius/boilerplate-redux-saga.git"
+  },
+  "keywords": [
+    "webpack",
+    "npm",
+    "react",
+    "redux",
+    "redux-saga",
+    "react-router",
+    "sass"
+  ],
+  "author": "Daniel Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavarius/boilerplate-redux-saga/issues"
+  },
+  "homepage": "https://github.com/mavarius/boilerplate-redux-saga#readme"
+}
